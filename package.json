@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BorisLeightonI/webpack/issues"
   },
-  "homepage": "https://github.com/BorisLeightonI/webpack#readme"
+  "homepage": "https://github.com/BorisLeightonI/webpack#readme",
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
 }
