@@ -1,1 +1,1 @@
-(()=>{"use strict";document.querySelector("h1").innerText="Vamos avanzando!!"})();
+(()=>{"use strict";document.getElementById("app").innerText="Vamos avanzando!!",alert("Desde función Hi()")})();
